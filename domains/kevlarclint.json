@@ -2,14 +2,14 @@
   "repo": "",
 
   "owner": {
-    "username": "kevclint",
-    "email": "clintlorenzo11@gmail.com"
+    "username": "YOUR_GITHUB_USERNAME",
+    "email": "dev@kevlarclint.anonaddy.com"
   },
 
   "target": {
     "A": {
       "name": "kevlarclint",
-      "value": "216.198.79.1"
+      "value": ["216.198.79.1"]
     },
     "TXT": {
       "name": "_vercel",
